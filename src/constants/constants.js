@@ -15,6 +15,13 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Amazon Clone Web App',
+    description: "An e-commerce web app intented to replicate amazon.It has full e-commerce functionality.",
+    image: '/images/AmazonClone2.png',
+    visit: 'https://github.com/Sanskar2001/Amazon-Clone',
+    id: 2,
+  },
+  {
     title: 'ToDo Web App',
     description: "A android based game application.The classic flappy bird game built using libGDX",
     image: '/images/WebTodoPreview.png',
