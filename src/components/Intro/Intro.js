@@ -31,7 +31,7 @@ const Intro = (props) => (
         }} */}
       {/* /> */}
 
-      Energetic and curiosity-driven Android, iOS and Full Stack Web developer. Experience in building, integrating, testing, and supporting mobile and web applications.
+      Energetic and curiosity-driven Android, iOS, React Native and Full Stack Web developer. Experience in building, integrating, testing, and supporting mobile and web applications.
       </SectionText>
     
       <Button onClick={()=>{window.location='/#about'}}>Learn More</Button>

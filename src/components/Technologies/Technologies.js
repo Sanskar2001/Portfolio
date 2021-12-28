@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web, android and iOS development world.
+      I've worked with a range of technologies in the Web, Android, iOS and React Native development world.
     </SectionText>
     <List>
       <ListItem>
@@ -59,6 +59,20 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br />
             iOS Development
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+
+      <ListItem>
+        <picture>
+          <DiReact size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>React Native</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            React Native Development
           </ListParagraph>
         </ListContainer>
       </ListItem>
