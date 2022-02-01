@@ -25,12 +25,18 @@ const Header = () =>  (
       <Link href="#tech">
         <NavLink>Technologies</NavLink>
       </Link>
-    </li>        
+    </li> 
+    <li>
+      <a href="https://archerin.sirv.com/SANSKAR_ATREY_CV.pdf" target="_blank">
+      <NavLink>Resume</NavLink>
+      </a>
+    </li>           
     <li>
       <Link href="#about">
         <NavLink>About</NavLink>
       </Link>
-    </li>        
+    </li> 
+         
   </Div2>
     <Div3>
       <SocialIcons href="https://github.com/Sanskar2001">
