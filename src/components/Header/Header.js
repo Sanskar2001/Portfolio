@@ -27,7 +27,7 @@ const Header = () =>  (
       </Link>
     </li> 
     <li>
-      <a href="https://archerin.sirv.com/SANSKAR_ATREY_CV.pdf" target="_blank">
+      <a href="https://archerin.sirv.com/SANSKAR_ATREY_CV1.pdf" target="_blank">
       <NavLink>Resume</NavLink>
       </a>
     </li>           
